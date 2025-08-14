@@ -64,3 +64,10 @@ java WeatherApp
    ```
    **Note**(For macOS/Linux, replace ; with : in the commands.)
 
+---
+
+### Future Improvements
+- Support for multiple languages.  
+- More detailed forecasts (hourly or weekly).  
+- GUI enhancements with smooth transitions.
+- Weather alerts and notifications.  
