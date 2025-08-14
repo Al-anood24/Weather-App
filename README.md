@@ -52,7 +52,7 @@ java WeatherApp
 2. Add the API key to the program where indicated in the code.
 
 ### 4. Install JSON Library (Required for Parsing) 
-1. Download the [json-20210307.jar] (or latest version) from the [Mvn Repository](https://mvnrepository.com/artifact/org.json/json).
+1. Download the [json-20210307.jar] (or latest version) from the [Maven Repository](https://mvnrepository.com/artifact/org.json/json).
 2. Place the JAR file in your project directory.
 3. Compile your program including the JAR file in the classpath:
    ```bash
